@@ -1,36 +1,59 @@
-<h1 align="center">Hi 👋, I'm Uvindu manohara</h1>
-<h3 align="center"I’m an undergraduate at the University of Sri Jayewardenepura with a strong technical foundation and excellent interpersonal skills. I specialize in full-stack development using the MERN stack, Java & Spring Boot, and also have hands-on experience with AWS, WordPress, and Webflow.
+<h1 align="center">Hi 👋, I’m Sasindi Udani</h1>
 
-With a passion for both building and teaching, I enjoy simplifying complex concepts through mentoring, tutoring, and public speaking. I’m now seeking opportunities to collaborate with forward-thinking teams and contribute to projects that drive innovation, creativity, and real-world value.</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uvindux&show_icons=true&locale=en&layout=compact" alt="uvindux" /></p>
+<h3 align="center">
+I’m an undergraduate with a strong technical foundation and good interpersonal skills.  
+I specialise in full-stack development (MERN), Java & Spring Boot, and have hands-on experience with WordPress, Webflow and basic AWS.  
+I enjoy mentoring, tutoring and public speaking — I like to simplify complex ideas and build real products.  
+Now open to collaborations and opportunities to contribute to impactful projects.
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvindux&show_icons=true&locale=en" alt="uvindux" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasindi-udani&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uvindux&" alt="uvindux" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasindi-udani&show_icons=true&locale=en" alt="github stats" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uvindux&label=Profile%20views&color=0e75b6&style=flat" alt="uvindux" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasindi-udani" alt="streak stats" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uvindux" alt="uvindux" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasindi-udani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-- 🌱 I’m currently learning **Mern stack and Java and webflow,springboot**
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sasindi-udani" alt="trophies" />
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at [manohara.work](manohara.work)
+---
 
-- 📝 I regularly write articles on [https://uvindu-chronicles.hashnode.dev/](https://uvindu-chronicles.hashnode.dev/)
-
-- 💬 Ask me about **Mern,wordpress,java**
-
-- 📫 How to reach me **manohara.work**
-
-- 📄 Know about my experiences [manohara.work](manohara.work)
+- 🌱 I’m currently learning **MERN stack, Java, Spring Boot, Webflow**
+- 👨‍💻 All of my projects are available at **[YOUR_WEBSITE](https://YOUR_WEBSITE)**
+- 📝 I regularly write articles on **[Your blog / Hashnode]**
+- 💬 Ask me about **MERN, WordPress, Java**
+- 📫 How to reach me: **https://YOUR_WEBSITE**
+- 📄 Know about my experiences: **https://YOUR_WEBSITE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/uvindu abeywardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uvindu abeywardhana" height="30" width="40" /></a>
-<a href="https://fb.com/uvindu manohara abeywardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uvindu manohara abeywardhana" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" />
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="facebook" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="twitter" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
+<h3 align="left">Languages & Tools:</h3>
+<p align="left">
+  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+</p>
