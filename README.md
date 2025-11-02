@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I’m Sasindi Udani</h1>
 
 <h3 align="center">
-I’m an undergraduate with a strong technical foundation and good interpersonal skills.  
-I specialise in full-stack development (MERN), Java & Spring Boot, and have hands-on experience with WordPress, Webflow and basic AWS.  
-I enjoy mentoring, tutoring and public speaking — I like to simplify complex ideas and build real products.  
-Now open to collaborations and opportunities to contribute to impactful projects.
+I'm an enthusiastic graduate passionate about software development and continuous learning.  
+I love exploring different areas in tech — from Java and OOP concepts to web development with MERN and Spring Boot.  
+Currently, I’m building projects that strengthen my practical skills while contributing to open-source communities.  
+I'm eager to collaborate, learn from others, and create impactful solutions that make a difference.
 </h3>
 
 <p>
