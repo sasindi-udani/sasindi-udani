@@ -25,23 +25,17 @@ I'm eager to collaborate, learn from others, and create impactful solutions that
 
 ---
 
-- 🌱 I’m currently learning **MERN stack, Java, Spring Boot, Webflow**
-- 👨‍💻 All of my projects are available at **[YOUR_WEBSITE](https://YOUR_WEBSITE)**
+- 🌱 I’m currently learning ** Java, Spring Boot**
+<!-- - 👨‍💻 All of my projects are available at **[YOUR_WEBSITE](https://YOUR_WEBSITE)**
 - 📝 I regularly write articles on **[Your blog / Hashnode]**
 - 💬 Ask me about **MERN, WordPress, Java**
 - 📫 How to reach me: **https://YOUR_WEBSITE**
-- 📄 Know about my experiences: **https://YOUR_WEBSITE**
+- 📄 Know about my experiences: **https://YOUR_WEBSITE** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/sasindi-perera" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" />
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="facebook" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="twitter" />
   </a>
 </p>
 
