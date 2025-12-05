@@ -7,11 +7,11 @@ Currently, I’m building projects that strengthen my practical skills while con
 I'm eager to collaborate, learn from others, and create impactful solutions that make a difference.
 </h3>
 
-<p>
+<!--<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasindi-udani&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasindi-udani&show_icons=true&locale=en" alt="github stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasindi-udani&show_icons=true&locale=en" alt="github stats" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasindi-udani" alt="streak stats" /></p>
 
